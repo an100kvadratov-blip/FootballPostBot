@@ -1,6 +1,13 @@
-Секретные файлы
-.env
+# Настройки IDE (PyCharm)
+.idea/
 
-Файлы кэша Python
-pycache/
+# Системные файлы macOS
+.DS_Store
+
+# Конфиденциальные данные/логи
+.env
+posted_headlines_keys.txt
+
+# Файлы кэша Python
+__pycache__/
 *.pyc
