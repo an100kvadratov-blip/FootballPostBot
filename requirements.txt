@@ -1,5 +1,4 @@
 pytelegrambotapi
 requests
-feedparser
-beautifulsoup4
 python-dotenv
+pytz
